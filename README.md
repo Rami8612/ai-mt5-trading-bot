@@ -1,4 +1,5 @@
-# 🤖 GPT Expert Advisor + MetaTrader 5 + Telegram
+# 🤖 AI MT5 Trading Bot (GPT + Telegram)
+
 
 This project is a comprehensive automated financial advisory system that combines:
 - Artificial Intelligence (OpenAI GPT)  
